@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e;
+
+
+case "$1" in
+
+  git-receive-pack)
+    echo XXX
+    ;;
+esac
